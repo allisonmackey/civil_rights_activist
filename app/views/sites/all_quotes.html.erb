@@ -1,0 +1,9 @@
+<h1>Here's All of Our Quotes</h1>
+<br>
+<% @quotes.each do |quote| %>
+  <div class = "quote_style">
+    "<%= quote['content'] %>"
+    - <%= quote['author'] %>
+    <hr>
+  </div>
+<% end %>
