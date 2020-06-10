@@ -6,30 +6,32 @@ a continuation of Black Lives Matter Quotes API
 #### By Allison Mackey & Reid Ashwill 
 
 ## Description
-This API will grow over time to include more that just quotes, but for now it is just a resource for quotes from civil rights activists.
-
-This API requires a key, to request a key contact one of the two creators here: https://github.com/reidashwill/black_lives_matter_api/issues
+This webpage is designed to use resouces from our custom civil rights quotes API.
 
 ## Specs
-http://localhost:3000/search?query=[searchterm]
+
 
 
 
 ## User Stories
 As a user I would like to...
 
+See a list of all quotes in the API
+
 Be able to search for a quote and have it return a list of items returned
-Be able to press a button to receive a random quote 
+Be able to press a button to receive a random quote
 
-
+See a list of orginizations to get involved with.
 
 
 
 ## Setup/Installation Requirements
 
-* _Navigate to https://github.com/reidashwill/black_lives_matter_quotes_api_
+* _Navigate to https://github.com/amackey693/civil_rights_activist.gitist.git_
 * _clone the respository to your local machine_
 * _navigate to the cloned directory and open in your text editor of choice to view code_
+
+* _Nivigate to https://powerful-savannah-21440.herokuapp.com/ to see the app live._
 
 ## Known Bugs
 No known bugs at this time
@@ -39,10 +41,7 @@ No known bugs at this time
 
 * _Ruby_
 * _Rails_
-* _Rspec_
-* _Capybara_
-* _Simplecov_
-* _HTML (erb)_
+* _HTTParty
 * _Bootstrap / SASS_
 
 ### License
