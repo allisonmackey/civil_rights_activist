@@ -19,6 +19,7 @@ As a user I would like to...
 See a list of all quotes in the API
 
 Be able to search for a quote and have it return a list of items returned
+
 Be able to press a button to receive a random quote
 
 See a list of orginizations to get involved with.
@@ -31,7 +32,7 @@ See a list of orginizations to get involved with.
 * _clone the respository to your local machine_
 * _navigate to the cloned directory and open in your text editor of choice to view code_
 
-* _Nivigate to https://powerful-savannah-21440.herokuapp.com/ to see the app live._
+* _Navigate to https://powerful-savannah-21440.herokuapp.com/ to see the app live._
 
 ## Known Bugs
 No known bugs at this time
